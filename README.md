@@ -1,6 +1,7 @@
 # PhonePe-Operational-Analytics
 # 💜 PhonePe Pulse: FinTech Operational Analytics Dashboard
 
+![PhonePe Home Dashboard](Visuals/Home.png)
 
 
 ## 🚀 Project Overview
